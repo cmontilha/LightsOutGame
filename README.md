@@ -15,9 +15,9 @@
 ## Screenshots
 Here are some screenshots of the game in action:
 
-| Game in Progress       | Game Over            |
-|------------------------|----------------------|
-| ![Game in Progress](images/game_in_progress.png) | ![Game Over](images/game_over.png) |
+| Main Screen | Game in Progress |
+|------------------|-------------|
+| <img src="images/game_in_progress.png" alt="Main Screen" width="200"/> | <img src="images/game_play.gif" alt="Game Play" width="200"/> |
 
 ## Installation
 
